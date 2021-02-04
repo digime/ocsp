@@ -1,6 +1,6 @@
 {
   "name": "ocsp",
-  "version": "1.2.0-check-issuer.2",
+  "version": "1.2.0-check-issuer.3",
   "description": "OCSP Stapling implementation",
   "main": "lib/ocsp.js",
   "scripts": {
